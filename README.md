@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Bruno</h1>
-<h3 align="center">Analis de dados</h3>
+<h3 align="center">Analista de dados</h3>
 
 - 🌱 Atualmente estou utilizando no meu dia a dia **Power BI, Tableau, SQL, ETL, Modelagem de dados e Python**
 
