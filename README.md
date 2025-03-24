@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Bruno</h1>
-<h3 align="center">Estudante de Analise de dados</h3>
+<h3 align="center">Analis de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Power BI, Tableau, SQL, ETL, Modelagem de dados e Python**
+- 🌱 Atualmente estou utilizando no meu dia a dia **Power BI, Tableau, SQL, ETL, Modelagem de dados e Python**
 
 - 💬 Me pergunte sobre **Power BI, Tableau, SQL, ETL, Excel**
 
